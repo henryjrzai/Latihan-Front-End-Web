@@ -1,0 +1,390 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600;700&display=swap');
+
+.homepage {
+    background: linear-gradient(to Top, #FFF0EE, #FFF4F2);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.navbar {
+    background-color: #FFFFFF;
+}
+
+.logo{ 
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.homepage .navbar .nav-link {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.btn-download {
+        color: #FFFFFF;
+        background-color: #FE5E44;
+        font-size: 16px;
+}
+
+.btn-learn {
+    color: #FFFFFF;
+    background-color: #FE5E44;
+    font-size: 16px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.btn-play {
+    background-color: #FFE6E2;
+    color: #FE5E44;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 10px;
+}
+
+.active-text {
+    color: #FE5E44;
+}
+
+.card {
+    margin-top: 50px;
+    width: auto;
+    -webkit-box-shadow : 8px 7px 30px  #FE5E44;
+        -moz-box-shadow: 8px 7px 30px  #FE5E44;
+        box-shadow : 8px 7px 30px  #FE5E44;
+}
+
+.card-testimoni {
+    background-color: #FFFFFF;
+    padding: 40px;
+}
+
+.text1 {
+    font-family: 'Patua One', cursive;
+    font-size: 28px;
+}
+
+.text2 {
+    font-family: 'Patua One', cursive;
+    font-size: 38px;
+}
+
+.text3 {
+    font-family: 'Inter', sans-serif;
+    font-size: 12px;
+    color: #0B1127;
+}
+
+.text4 {
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    color: #0C1B4D;
+    font-weight: 600;
+}
+
+.text5 {
+    font-family: 'Patua One', cursive;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.text6 {
+    font-family: 'IBM Plex Mono', monospace;
+    color: #FE5E44;
+    font-weight: 600;   
+    font-size: 14px;
+}
+
+.text7 {
+    font-family: 'Patua One', cursive;
+    font-size: 32px;
+    
+}
+
+.text8 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+    color: #6D6E80;
+}
+
+.text9{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    color: #0C0E2B;
+}
+
+.text {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #6F6F6F;
+    font-size: 18px;
+}
+
+.card-text1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+}
+
+.bintang {
+    width: 20px;
+    height: 20px;
+    background-color: #CCCCCC;
+    cursor: pointer;
+}
+
+.bintang-vector {
+    margin-top: -7px;
+    margin-left: 1px;
+}
+
+.bintang:hover {
+    background-color: #FFC93F;
+}
+
+.bintang-aktif {
+    background-color: #FFC93F;
+}
+
+.profile {
+    margin-top: -10px;
+}
+
+.name-profile {
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+}
+
+.work-profile {
+    font-family: 'Poppins', sans-serif;
+    font-size: 10px;
+    margin-top: -15px;
+    color: #6E6C8B;
+}
+
+.tunjuk {
+    margin-top: -30px;
+    margin-left: 8px;
+    cursor: pointer;
+}
+
+.fitur1 {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.fitur2 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.fitur-fitur {
+    background-color: #FFF7F6;
+    width: 280px ;
+    height: 240px;
+    padding: 30px;
+}
+
+.jenis-fitur {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.isi-fitur {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+}
+
+.isi {
+    margin-bottom: 20px;
+}
+
+.bg-handphone {
+    width: 100%;
+    height: auto;
+    background-image: linear-gradient(to Top, #FF735C, #FFBFB5);
+}
+
+.gambar {
+    width: 100%;
+    margin-top: 25px;
+}
+
+
+.fiturhp {
+    width: 269.5px;
+    height: 141px;
+}
+
+.section3 {
+    background-color: #FFF7F6;
+}
+
+.section4 {
+    background-color: #FFEFEC;
+}
+
+.padding-content {
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+
+.catur {
+    margin-bottom: 100px;
+}
+
+.harga {
+    width: 369px;
+    background-color: #FFFFFF;
+    padding: 50px;
+}
+
+.btn-harga {
+    background-color: #FE5E44;
+    color: #FFFFFF;
+    width: 269px;
+
+}
+
+.padding-footer {
+    padding: 100px;
+}
+
+.sitemap {
+    list-style-type: none;
+}
+
+.medsos {
+    width: 40px;
+}
+
+
+
+@media screen and (min-width: 375px) and (max-width: 812px) {
+    .hp1 {
+        width: 100%;
+        margin-top: 20px;
+    }
+    
+    .card{
+        height: 220px;
+    }
+
+    .tunjuk {
+        visibility: hidden;
+    }
+
+    .card-text1{
+        margin-top: 10px;
+    }
+    .text {
+        font-size: 15px;
+    }
+    .text2 {
+        font-size: 25px;
+    }
+
+    .text3 {
+        font-size: 12px;
+        text-align: center  ;
+    }
+    
+    .text4 {
+        font-size: 24px;
+        font-weight: 600;
+    }
+
+    .text7 {
+        font-size: 22px;
+    }
+
+    .text9 {
+        font-size: 15px;
+    }
+
+    .my-sm {
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+
+    .fitur2 {
+        margin-top: -100px;
+        padding: 50px;
+    }
+
+    .sampinghp {
+        margin-top: 50px;
+    }
+
+    .fiturhp {
+        margin-bottom: 30px;
+    }
+
+    .harga {
+        width: 100%;
+        padding: 40px;
+    }
+
+    .price {
+        padding-bottom: 50px;
+    }
+
+    .catur{
+        margin-top: 80px;
+    }
+}
+
+
+
+@media screen and (min-width: 768px) and (max-device-width: 1024px) {
+    
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1600px) {
+    .text1 {
+        font-family: 'Patua One', cursive;
+        font-size: 48px;
+    }
+
+    .card {
+        margin-top: 50px;
+        width: 469px;
+        -webkit-box-shadow : 8px 7px 30px  #FE5E44;
+            -moz-box-shadow: 8px 7px 30px  #FE5E44;
+            box-shadow : 8px 7px 30px  #FE5E44;
+    }
+
+    .card-text1{
+        font-size: 14px;
+    }
+
+    .work-profile{
+        font-size: 12px;
+    }
+
+    .profile {
+        margin-top: -25px;
+    }
+
+    .card-btn {
+        margin-top: -450px;
+    }
+
+    .bg-handphone {
+        width: 400px;
+        height: 600px;
+        background-image: linear-gradient(to Top, #FF735C, #FFBFB5);
+    }
+
+    .sampinghp {
+        margin-left: 80px;
+    }
+    
+}
